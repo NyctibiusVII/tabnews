@@ -1,0 +1,17 @@
+{
+  "name": "tabnews",
+  "version": "0.0.1",
+  "description": "Tabnews - curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NyctibiusVII",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
